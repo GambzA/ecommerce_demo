@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  order_ref_number: MyString
+  product_id: 1
+  customer_id: 1
+  date_of_order: 2025-01-18
+  status: MyString
+
+two:
+  order_ref_number: MyString
+  product_id: 1
+  customer_id: 1
+  date_of_order: 2025-01-18
+  status: MyString
